@@ -40,7 +40,7 @@ order: 10
 + Readiness status of:
   + Node web pages + registration
   + Data at nodes
-    + Softare stacks at nodes
+    + Software stacks at nodes
 
 ### 11  Feb 2025
 
